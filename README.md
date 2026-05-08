@@ -1,1 +1,1 @@
-# My diplom work
+# My diplom project (DSUIR)
