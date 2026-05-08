@@ -1,1 +1,1 @@
-# My diplom project (DSUIR)
+# My graduation project (BSUIR)
